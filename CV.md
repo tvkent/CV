@@ -1,0 +1,37 @@
+---
+title: "Tyler V. Kent"
+author: "tvkent @ ucdavis.edu"
+output: 
+  pdf_document:
+    highlight: NULL
+---
+\pagenumbering{gobble}
+
+#Education
+* University of California, Davis \hfill _expected June 2015_    
+B.S. in Genetics, Minor in Statistics (planned)   
+Overall GPA: 3.56   
+
+#Honors and Awards
+* Dean's Honor List \hfill _Fall 2011, Fall 2013, Spring 2014_
+* Phi Sigma Society, Gamma Delta Chapter member \hfill _2014-present_   
+
+#Teaching Experience
+* Learning Assistant, BIS2B: Principles of Ecology and Evolution, UCD \hfill _Fall 2012_   
+
+#Research Experience
+* Research Intern, Ross-Ibarra Lab, Dept. of Plant Sciences, UCD \hfill _2014-present_
+    * Genotype imputation in a maize association panel
+    * Crosses of transgenic maize for centromere histone protein studies
+    * Investigation of crop-wild introgression in rice
+
+#Publications
+* __Kent TV__, Bhadra-Lobo S, Fuchs E, Ross-Ibarra J. Evolutionary consequences of admixture in the wild rice _Oryza glumaepatula._ _in prep_
+
+#Skills
+* Programming: proficiency with Python, Linux/Unix, R
+* Software: experience with Beagle, TASSEL, BWA, ANGSD, Slurm cluseter queueing, GitHub (tvkent)
+* Greenhouse: controlled crosses of maize
+
+#Relevant Coursework
+* Genes and Gene Expression, Intro to Evolution, Principles of Genomics, Functional Genomics, Adv Molecular Biology, Concepts of Computing (python), Regression Analysis, ANOVA, Mathematical Statistics, Population and Quantitative Genetics
