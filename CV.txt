@@ -22,7 +22,7 @@ Overall GPA: 3.56
 #Research Experience
 * Research Intern, Ross-Ibarra Lab, Dept. of Plant Sciences, UCD \hfill _2014-present_
     * Genotype imputation in a maize association panel
-    * Crosses of transgenic maize for centromere histone protein studies
+    * Crosses of transgenic maize to test complementation of centromere histone proteins
     * Investigation of crop-wild introgression in rice
 
 #Publications
