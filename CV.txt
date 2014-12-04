@@ -29,7 +29,7 @@ Overall GPA: 3.56
 * __Kent TV__, Bhadra-Lobo S, Fuchs E, Ross-Ibarra J. Evolutionary consequences of admixture in the wild rice _Oryza glumaepatula._ _in prep_
 
 #Presentations
-* ANGSD-wrapper: scripts to streamline and visualize NGS population genetics analysis, Poster at BAPG XI Conf, UC Davis Dec. 2014
+* ANGSD-wrapper: scripts to streamline and visualize NGS population genetics analysis, Poster at BAPG XI Conf, UC Davis Dec. 6 2014
 
 #Skills
 * Programming: proficiency with Python, Linux/Unix, R
