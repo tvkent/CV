@@ -28,6 +28,9 @@ Overall GPA: 3.56
 #Publications
 * __Kent TV__, Bhadra-Lobo S, Fuchs E, Ross-Ibarra J. Evolutionary consequences of admixture in the wild rice _Oryza glumaepatula._ _in prep_
 
+#Presentations
+* ANGSD-wrapper: scripts to streamline and visualize NGS population genetics analysis, Poster at BAPG XI Conf, UC Davis Dec. 2014
+
 #Skills
 * Programming: proficiency with Python, Linux/Unix, R
 * Software: experience with Beagle, TASSEL, BWA, ANGSD, Slurm cluseter queueing, GitHub (tvkent)
@@ -37,7 +40,4 @@ Overall GPA: 3.56
 #Relevant Coursework
 * Genes and Gene Expression, Intro to Evolution, Principles of Genomics, Functional Genomics, Adv Molecular Biology, Concepts of Computing (python), Regression Analysis, ANOVA, Mathematical Statistics, Population and Quantitative Genetics
 -->
-
-#Presentations
-* ANGSD-wrapper: scripts to streamline and visualize NGS population genetics analysis, Poster at BAPG XI Conf, UC Davis Dec. 2014
 
