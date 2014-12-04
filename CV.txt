@@ -33,5 +33,11 @@ Overall GPA: 3.56
 * Software: experience with Beagle, TASSEL, BWA, ANGSD, Slurm cluseter queueing, GitHub (tvkent)
 * Greenhouse: controlled crosses of maize
 
+<!---
 #Relevant Coursework
 * Genes and Gene Expression, Intro to Evolution, Principles of Genomics, Functional Genomics, Adv Molecular Biology, Concepts of Computing (python), Regression Analysis, ANOVA, Mathematical Statistics, Population and Quantitative Genetics
+-->
+
+#Presentations
+* ANGSD-wrapper: scripts to streamline and visualize NGS population genetics analysis, Poster at BAPG XI Conf, UC Davis Dec. 2014
+
