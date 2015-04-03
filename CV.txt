@@ -8,8 +8,8 @@ output:
 \pagenumbering{gobble}
 
 #Education
-* University of Toronto \hfill _beginning Sept 2015_
-Ph.D in Ecology and Evolutionary Biology
+* University of Toronto \hfill _beginning Sept 2015_  
+Ph.D in Ecology and Evolutionary Biology  
 Advisor: Dr. Stephen I. Wright
 
 * University of California, Davis \hfill _expected June 2015_    
@@ -40,7 +40,7 @@ Overall GPA: 3.53
 
 #Skills
 * Programming: proficiency with Python, Linux/Unix, R
-* Software: experience with Beagle, TASSEL, BWA, ANGSD, NGSPopGen, Slurm cluster queueing, GitHub [tvkent](https://www.github.com/tvkent)
+* Software: experience with Beagle, TASSEL, BWA, ANGSD, NGSPopGen, Slurm cluster queueing, GitHub [(tvkent)](https://www.github.com/tvkent)
 * Greenhouse: controlled crosses of maize
 
 <!---
