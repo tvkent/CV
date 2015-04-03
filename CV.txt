@@ -8,13 +8,13 @@ output:
 \pagenumbering{gobble}
 
 #Education
+* University of Toronto \hfill _beginning Sept 2015_
+Ph.D in Ecology and Evolutionary Biology
+Advisor: Dr. Stephen I. Wright
+
 * University of California, Davis \hfill _expected June 2015_    
 B.S. in Genetics and Genomics, Minor in Statistics     
 Overall GPA: 3.53  
-
-* University of Toronto \hfill _beginning Sept 2015_  
-Ph.D in Ecology and Evolutionary Biology  
-Advisor: Stephen I. Wright     
 
 #Honors and Awards
 <!---* Dean's Honor List \hfill _Fall 2011, Fall 2013, Spring 2014_--->
