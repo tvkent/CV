@@ -9,14 +9,12 @@ output:
 
 #Education
 * University of California, Davis \hfill _expected June 2015_    
-B.S. in Genetics and Genomics, Minor in Statistics     
-Overall GPA: 3.53   
+B.S. in Genetics, Minor in Statistics (planned)   
+Overall GPA: 3.53     
 
 #Honors and Awards
-<!---* Dean's Honor List \hfill _Fall 2011, Fall 2013, Spring 2014_--->
+* Dean's Honor List \hfill _Fall 2011, Fall 2013, Spring 2014_
 * Phi Sigma Society, Gamma Delta Chapter member \hfill _2014-present_   
-* Graduate Admissions Award, University of Toronto Faculty of Arts and Science \hfill 2015  
-* Ecology and Evolutionary Biology Entrance Scholarship, University of Toronto \hfill 2015  
 
 #Teaching Experience
 * Learning Assistant, BIS2B: Principles of Ecology and Evolution, UCD \hfill _Fall 2012_   
@@ -25,17 +23,17 @@ Overall GPA: 3.53
 * Research Intern, Ross-Ibarra Lab, Dept. of Plant Sciences, UCD \hfill _2014-present_
     * Genotype imputation in a maize association panel
     * Crosses of transgenic maize to test complementation of centromere histone proteins
-    * Investigation of gene flow in wild and domesticated rice
+    * Investigation of crop-wild introgression in rice
 
 #Publications
-* __Kent TV__, Bhadra-Lobo S, Durvasula A, Yang J, Fuchs E, Ross-Ibarra J. Population genomic assesment of crop-wild gene flow in the endangered wild rice _Oryza glumaepatula_ _in prep_
+* __Kent TV__, Bhadra-Lobo S, Fuchs E, Ross-Ibarra J. Evolutionary consequences of admixture in the wild rice _Oryza glumaepatula._ _in prep_
 
 #Presentations
 * ANGSD-wrapper: scripts to streamline and visualize NGS population genetics analysis, Poster at BAPG XI Conf, UC Davis Dec. 6 2014
 
 #Skills
 * Programming: proficiency with Python, Linux/Unix, R
-* Software: experience with Beagle, TASSEL, BWA, ANGSD, NGSPopGen, Slurm cluster queueing, GitHub (tvkent)
+* Software: experience with Beagle, TASSEL, BWA, ANGSD, Slurm cluseter queueing, GitHub (tvkent)
 * Greenhouse: controlled crosses of maize
 
 <!---
