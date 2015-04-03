@@ -10,7 +10,11 @@ output:
 #Education
 * University of California, Davis \hfill _expected June 2015_    
 B.S. in Genetics and Genomics, Minor in Statistics     
-Overall GPA: 3.53   
+Overall GPA: 3.53  
+
+* University of Toronto \hfill _beginning Sept 2015_  
+Ph.D in Ecology and Evolutionary Biology  
+Advisor: Stephen I. Wright     
 
 #Honors and Awards
 <!---* Dean's Honor List \hfill _Fall 2011, Fall 2013, Spring 2014_--->
@@ -28,7 +32,8 @@ Overall GPA: 3.53
     * Investigation of gene flow in wild and domesticated rice
 
 #Publications
-* __Kent TV__, Bhadra-Lobo S, Durvasula A, Yang J, Fuchs E, Ross-Ibarra J. Population genomic assesment of crop-wild gene flow in the endangered wild rice _Oryza glumaepatula_ _in prep_
+* __Kent T__, Bhadra-Lobo S, Durvasula A, Yang J, Fuchs E, Ross-Ibarra J. Population genomic assesment of crop-wild gene flow in the endangered wild rice _Oryza glumaepatula_ _in prep_  
+* Durvasula A, __Kent T__, Ross-Ibarra J. ANGSD-wrapper: scripts to streamline and visualize NGS population genetics analysis _in prep_
 
 #Presentations
 * ANGSD-wrapper: scripts to streamline and visualize NGS population genetics analysis, Poster at BAPG XI Conf, UC Davis Dec. 6 2014
