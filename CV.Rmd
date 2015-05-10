@@ -18,9 +18,10 @@ Overall GPA: 3.53
 
 #Honors and Awards
 <!---* Dean's Honor List \hfill _Fall 2011, Fall 2013, Spring 2014_--->
-* Phi Sigma Society, Gamma Delta Chapter member \hfill _2014-present_   
-* Graduate Admissions Award, University of Toronto Faculty of Arts and Science \hfill 2015  
-* Ecology and Evolutionary Biology Entrance Scholarship, University of Toronto \hfill 2015  
+* Phi Sigma Society, Gamma Delta Chapter member \hfill _2014-present_
+* Citation for Outstanding Performance, College of Biological Sciences UC Davis \hfill 2015
+* Graduate Admissions Award, University of Toronto Faculty of Arts and Science \hfill 2015
+* Ecology and Evolutionary Biology Entrance Scholarship, University of Toronto \hfill 2015
 
 #Teaching Experience
 * Learning Assistant, BIS2B: Principles of Ecology and Evolution, UCD \hfill _Fall 2012_   
